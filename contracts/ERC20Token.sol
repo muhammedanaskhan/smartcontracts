@@ -98,3 +98,7 @@ contract Cryptos is ERC20Interface {
 
       }
 }
+
+contract CryptosICO is Cryptos{
+
+}
